@@ -18,7 +18,7 @@ Ambition Box Data Analysis: Web Scraping, EDA, and Power BI Dashboard
 4. Power BI Desktop: For designing and building the interactive dashboard.
 5. Microsoft Excel / CSV: For data storage and intermediate processing.
    
-📊 Key Insights (Examples - you can customize based on your findings)
+📊 Key Insights 
 
 1. Identified top companies based on employee reviews and average salaries.
 2. Uncovered the distribution of job openings across various industries.
